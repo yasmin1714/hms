@@ -1,0 +1,34 @@
+Patient/User Login Details
+username 	             password
+ravi.kumar@example.com	     pass123
+priya.sharma@example.com     pass456
+amit.verma@example.com	     pass789
+ravi.kumar@example.com	     pass123
+piiiya.sharma@example.com    pass456
+ammt.verma@example.com	     pass789
+
+or Register a new user..
+
+Doctor Login Details
+
+username	        password
+murali@gmail.com	7a9f886e7fd608a790fe4e88b738c6f1(doctor12)
+karthik@gmail.com	b3666d14ca079417ba6c2a99f079b2ac(doctor123)
+chaitra@gmail.com	
+santosh@gmail.com	
+archana@gmail.com	
+aditi@gmail.com	
+shilpa@gmail.com	
+baswaraj@gmail.com	
+mohan@gmail.com	
+sumanth@gmail.com	
+yasminddg@gmail.com	
+
+pw same for all...........
+
+
+Admin Login Details
+Username: admin  Password: yasmin@14
+
+
+
