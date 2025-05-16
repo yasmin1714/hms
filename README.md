@@ -2,6 +2,8 @@
 
 A web-based Hospital Management System developed using **PHP**, **MySQL**, **JavaScript**, and **CSS** to streamline hospital operations such as appointments, billing, medical records, and user management for patients, doctors, nurses, and administrators.
 
+Video Demo : https://youtu.be/TcBWaO3tQSM
+
 ---
 
 ## 📌 Features
